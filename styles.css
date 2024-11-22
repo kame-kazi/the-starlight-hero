@@ -1,0 +1,49 @@
+* {
+    font-family: tahoma, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  section > p {
+    display: inline-block;
+    max-width: 1000px;
+    line-height: 30px
+  }
+  
+  section {
+    background-color: #B53838;
+    color: white;
+    padding-top: 20px
+  }
+  
+  h1, h2 {
+    background-color: #B53838;
+    color: white;
+  }
+  
+  h2 {
+    padding-bottom: 20px;
+    font-weight: 500
+  }
+  
+  #img-caption {
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding-bottom: 25px;
+    color: #B53838
+  }
+  
+  h3 {
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+  
+  a {
+    color: white
+  }
